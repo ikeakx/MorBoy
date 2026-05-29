@@ -4,12 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
-    using System;
-    using System.Collections.Generic;
-
-    namespace SeaBattle
+namespace SeaBattle
     {
         class Ship
         {
@@ -423,4 +418,3 @@ namespace ConsoleApp1
             }
         }
     }
-}
