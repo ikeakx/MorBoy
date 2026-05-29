@@ -11,9 +11,6 @@ namespace ConsoleApp1
 
     namespace SeaBattle
     {
-        /// <summary>
-        /// Класс Ship - представляет корабль
-        /// </summary>
         class Ship
         {
             private string type;
